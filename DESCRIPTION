@@ -1,5 +1,5 @@
 Package: finalproject
-Title: project code and narrative
+Title: Statistical Analysis of Public Health Outcomes
 Version: 0.0.3
 Authors@R:
     person(given = "Yufei",
@@ -7,8 +7,13 @@ Authors@R:
            role = c("aut", "cre"),
            email = "yufeichen@hsph.harvard.edu",
            comment = c(ORCID = "0000-0002-1825-0097"))
-Description: provide text on what your project emphasizes and 
-	accomplishes in three or more complete sentences.
+Description: This package investigates public health outcomes using NHANES
+    and CDC waterborne disease outbreak data. It examines the association
+    between BMI and systolic blood pressure among adults aged 40 and older
+    using linear and spline regression. It also investigates the relationship
+    between water system type and outbreak size using Poisson and negative
+    binomial regression. The project emphasizes data visualization,
+    statistical modeling, and reproducible analysis.
 Depends: R (>= 4.3.0)
 Suggests: knitr, testthat, rmarkdown, pkgdown
 License: Artistic-2.0
