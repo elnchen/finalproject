@@ -98,3 +98,9 @@ interpreted as observational associations rather than causal effects.
 
 The completed project will be published through the `finalproject`
 pkgdown website on GitHub Pages.
+
+## AI disclosure
+
+Model: ChatGPT Prompt: Provide some examples of reference ideas; Are
+those ideas plausible; check grammar of my proposal and refine my
+language
